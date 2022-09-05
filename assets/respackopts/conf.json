@@ -1,0 +1,15 @@
+{
+  "id": "bedrockgui",
+  "version": 7,
+  "capabilities": ["FileFilter", "DirFilter"],
+  "conf": {
+        "widgetStyle": [
+            "default",
+            "style2",
+            "style3",
+            "disabled"
+        ],
+        "titleEnabled": true,
+        "editionDisabled": true
+  }
+}

@@ -1,0 +1,4 @@
+ {
+    "condition": "bedrockgui:widgetStyle.default",
+    "fallback": "assets/minecraft/textures/gui/widgets2.png"
+}

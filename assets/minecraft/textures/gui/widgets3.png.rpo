@@ -1,0 +1,3 @@
+{
+    "condition": { "not": "bedrockgui:widgetStyle.disabled" }
+}
