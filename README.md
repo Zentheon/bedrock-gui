@@ -12,7 +12,7 @@ Supported mods:
 - [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib)
 - [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
 
-This pack also supports [Respackups!](https://modrinth.com/mod/respackopts) If you have the mod installed, you'll be able to disabled certain features or even try out alternate styles!
+This pack also supports [Respackops!](https://modrinth.com/mod/respackopts) If you have it installed, you'll be able to disabled certain features or even try out alternate styles!
 
 ## Install
 
