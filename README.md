@@ -38,8 +38,10 @@ This will also keep the pack up do date automatically. Alternatively, you can do
 
 ##### If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
 
-## Usage
+## Resources
 
-You can use these assets however you want and post projects that include them as long as long as any of the following pages are linked to as credit: [Github](https://github.com/Xetheon/mc-fancy-doors) | [Modrinth](https://modrinth.com/resourcepack/fancy-doors) | [Curseforge](https://www.curseforge.com/minecraft/texture-packs/fancy-doors)
+- Want to use these assets in your own works? See the [license](https://github.com/Xetheon/bedrock-gui/blob/main/LICENSE.md)
 
-Please do not rehost this pack directly. If you want to make releases on other platforms, redirect downloads to any of the above links.
+- Curious about updates on things I work on or just want to hang out? Join my [Discord!](https://discord.gg/3gtNAQgv2G)
+
+- Interested in other packs I've made? Check out [this list!](https://gist.github.com/Xetheon/c3d677e0762658f8d79cf05e2c6e65ff)
