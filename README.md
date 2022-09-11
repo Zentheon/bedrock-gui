@@ -32,16 +32,14 @@ The easiest way to do this is to clone the repo, if you have Git installed. Open
 
 This will also keep the pack up do date automatically. Alternatively, you can download the pack manually by going to any of its release pages.
 
-[Github Releases](https://github.com/Xetheon/bedrock-gui/releases)
-[Modrinth](https://modrinth.com/resourcepack/bedrock-gui)
-[CurseForge](https://www.curseforge.com/minecraft/texture-packs/bedrock-gui)
+- [Github Releases](https://github.com/Xetheon/bedrock-gui/releases)
+- [Modrinth](https://modrinth.com/resourcepack/bedrock-gui)
+- [CurseForge](https://www.curseforge.com/minecraft/texture-packs/bedrock-gui)
 
 ##### If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
 
 ## Resources
 
 - Want to use these assets in your own works? See the [license](https://github.com/Xetheon/bedrock-gui/blob/main/LICENSE.md)
-
 - Curious about updates on things I work on or just want to hang out? Join my [Discord!](https://discord.gg/3gtNAQgv2G)
-
 - Interested in other packs I've made? Check out [this list!](https://gist.github.com/Xetheon/c3d677e0762658f8d79cf05e2c6e65ff)
