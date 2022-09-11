@@ -1,6 +1,6 @@
 ## License
 
-This resourcepack is under the [Attribution-NonCommercial-ShareAlike 4.0 International]() license.
+This resourcepack is under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 This basically just means you can use the assets in this pack however you want to as long as it's not for-profit, and you properly credit me.
 
